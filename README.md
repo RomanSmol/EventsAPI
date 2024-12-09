@@ -9,8 +9,8 @@
 
 
 # 📂 Project Structure
-## /Application - Core business logic
-## /Domain - Entities and core domain models
-## /Infrastructure - Database and external services
-## /Presentation - API
-## /Tests - Unit tests
+## /Application - _Core business logic_
+## /Domain - _Entities and core domain models_
+## /Infrastructure - _Database and external services_
+## /Presentation - _API_
+## /Tests - _Unit tests_
